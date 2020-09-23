@@ -90,11 +90,11 @@ We start the mysql at first using following command:-
  service apache2 start
  ```
  Let's open the browser and navigate to 127.0.0.1/dvwa/ first open will open the setup.php
- ![Final]()
+ ![Final](https://github.com/rahulrbk/Docs/blob/master/login.jpg)
   * Here we scroll down and click on "Create/Reset Database".
 
   * Then it will create and configure the database and we redirected to DVWA login page.
-  ![Final1]()
+  ![Final1](https://github.com/rahulrbk/Docs/blob/master/login1.jpg)
 
   The default login is
 
@@ -102,7 +102,7 @@ We start the mysql at first using following command:-
     Password:- password
 
  After login we are in Damn Vulnerable Web Applications main page. Here is some general information and warnings. 
- ![final2]()  
+ ![final2](https://github.com/rahulrbk/Docs/blob/master/login2.jpg)  
 
  
 
